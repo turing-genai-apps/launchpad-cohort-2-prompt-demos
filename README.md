@@ -2,7 +2,7 @@
 
 Dear Learners,
 
-This repo is dedicated to showcasing your prompting skills. Your task is to get a basic understanding of Prompt Engineering and then reflect on your learning by picking any of the use cases/techniques mentioned in the course with your own creative use case.
+This repo is dedicated to showcasing your prompting skills. Your task is to get a basic understanding of Prompt Engineering from the [ChatGPT Prompt Engineering for Developers course](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng) and then reflect on your learning by picking any of the use cases/techniques mentioned in the course with your own creative use case.
 
 Hence,
 
