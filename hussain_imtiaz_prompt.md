@@ -1,0 +1,26 @@
+Prompt:
+
+Given the following text, identify and extract specific types of information, including:  
+- People (names of individuals mentioned)  
+- Organizations (companies, institutions, government entities, etc.)  
+- Locations (cities, states, countries, or specific places)  
+
+Be concise with the output. Do not give extra information other than what's asked above. Format your response by categorizing the extracted information under clear headings. Here is the text to analyze:  
+
+"In 2015, Dr. Emily Carter, a renowned physicist from Princeton University, collaborated with NASA to develop a new propulsion system for deep space exploration. The project, spearheaded by the Jet Propulsion Laboratory in Pasadena, California, received $50 million in funding from the U.S. government. During a press conference in Washington, D.C., on March 18, 2016, NASA Administrator Charles Bolden praised the initiative, stating that it could revolutionize future interstellar travel."
+
+
+LLM Response(OpenAI):
+**People:**  
+- Dr. Emily Carter  
+- Charles Bolden  
+
+**Organizations:**  
+- Princeton University  
+- NASA  
+- Jet Propulsion Laboratory  
+- U.S. government  
+
+**Locations:**  
+- Pasadena, California  
+- Washington, D.C.  
